@@ -89,18 +89,11 @@ For immediate feedback on submissions, we will be using Gator Grade to inform th
 
 ## Project Assessment
 
-The grade that a student receives on this assignment will have the following components.
-
-- **GitHub Actions CI Build Status [up to 15%]:**: For the repository associated with this assignment students will receive a checkmark grade if their last before-the-deadline build passes. This is only checking some baseline writing and commit requirements as well as correct running of the program. An additional reduction will be given if the commit log shows a cluster of commits at the end clearly used just to pass this requirement. An additional reduction will also be given if there is no commit during lab work times. All other requirements are evaluated manually.
-
-- **Mastery of Technical Writing [up to 85%]:**: Students will also receive a checkmark grade when the responses to the writing questions presented in the `reflection.md` reveal a proficiency of both writing skills and technical knowledge. To receive a check mark grade, the submitted writing should have correct spelling, grammar, and punctuation in addition to following the rules of Markdown and providing conceptually and technically accurate answers.
-
-## Project Assessment
-- **Report Quality (75%)**: The quality of the writing in `writing/report.md` will be assessed.
+- Report Quality (75%): The quality of the writing in `writing/report.md` will be assessed.
     - Clarity and Coherence (25%): Writing clearly expresses ideas and concepts, with logical flow and coherence throughout.
     - Structure and Organization (25%): The report is well-structured and follows the assignment guidelines accurately.
     - Grammar and Style (25%): Correct use of grammar, punctuation, and academic style. Professional and appropriate language is used.
-- **Submission and GatorGrader Compliance (25%)**: Successfully submit the work to your GitHub repository and meet all criteria set by GatorGrader.
+- Submission and GatorGrader Compliance (25%): Successfully submit the work to your GitHub repository and meet all criteria set by GatorGrader.
 
 ## GatorGrade
 
