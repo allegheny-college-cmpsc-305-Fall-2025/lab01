@@ -95,6 +95,13 @@ The grade that a student receives on this assignment will have the following com
 
 - **Mastery of Technical Writing [up to 85%]:**: Students will also receive a checkmark grade when the responses to the writing questions presented in the `reflection.md` reveal a proficiency of both writing skills and technical knowledge. To receive a check mark grade, the submitted writing should have correct spelling, grammar, and punctuation in addition to following the rules of Markdown and providing conceptually and technically accurate answers.
 
+## Project Assessment
+- **Report Quality (75%)**: The quality of the writing in `writing/report.md` will be assessed.
+    - Clarity and Coherence (25%): Writing clearly expresses ideas and concepts, with logical flow and coherence throughout.
+    - Structure and Organization (25%): The report is well-structured and follows the assignment guidelines accurately.
+    - Grammar and Style (25%): Correct use of grammar, punctuation, and academic style. Professional and appropriate language is used.
+- **Submission and GatorGrader Compliance (25%)**: Successfully submit the work to your GitHub repository and meet all criteria set by GatorGrader.
+
 ## GatorGrade
 
 You can check the baseline writing and commit requirements for this lab assignment by running the department's assignment checking `gatorgrade` tool. To use `gatorgrade`, you first need to make sure you have Python3 installed (type `python --version` to check). If you do not have Python installed, please see:
